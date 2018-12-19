@@ -1,4 +1,4 @@
-# SeattleBiking
+# Seattle Biking Trends
 
 'Bicycling' magazine has ranked Seattle as the #1 biking city in the US this year. Thought it would be fun to do an exploratory analysis of biking traffic across different parts of the city!
 
